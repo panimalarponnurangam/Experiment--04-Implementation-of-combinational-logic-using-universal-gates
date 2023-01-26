@@ -28,6 +28,12 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 
 ## Logic Diagram
 ## Procedure
+1.create a project with required entities
+2.create a module along with respective file name
+3.run the respective programs for the given boolean eqations
+4.run the module and get the respective rtl outputs
+5.create university program(vwf) for getting timing diagram
+6.give the respective inputs for timing diagram and obtain the results
 ## Program:
 
 module combin(a,b,c,d,f);
@@ -64,6 +70,8 @@ RegisterNumber:  22009107
 
 
 ## Truth table
+![Uploading Screenshot (194).png…]()
+
 
 
 ## Timing Diagram
