@@ -65,6 +65,7 @@ RegisterNumber:  22009107
 
 ## Truth table
 
+
 ## Timing Diagram
 ![Screenshot (94)](https://user-images.githubusercontent.com/121490826/214071757-cc0d7b71-47bc-4356-a383-99a7969b5d9a.png)
 ![Screenshot (99)](https://user-images.githubusercontent.com/121490826/214107186-6a1dbf14-a08d-488f-8c54-6df423ab2f59.png)
