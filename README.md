@@ -70,7 +70,8 @@ RegisterNumber:  22009107
 
 
 ## Truth table
-![Uploading Screenshot (194).png…]()
+
+![Screenshot (234)](https://user-images.githubusercontent.com/121490826/215140656-1bc6426b-eb6a-4a28-b109-79965f6fb6b5.png)
 
 
 
