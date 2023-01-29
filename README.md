@@ -34,8 +34,10 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 4.run the module and get the respective rtl outputs
 5.create university program(vwf) for getting timing diagram
 6.give the respective inputs for timing diagram and obtain the results
-## Program:
 
+
+## Program:
+~~~
 module combin(a,b,c,d,f);
 input a,b,c,d;
 output f;
@@ -60,7 +62,7 @@ Program to implement the given logic function using NAND and NOR gates and to ve
 Developed by: panimalar.p
 RegisterNumber:  22009107
 */
- 
+~~~ 
 
 ## Output:
 ## RTL realization
